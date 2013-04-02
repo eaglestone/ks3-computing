@@ -106,18 +106,15 @@ I am grateful to the following people and bodies who have published material fre
 
 [The Learning Spy – David Didau](http://learningspy.co.uk/): A big inspiration and a professional role model. Amongst other things, he put me on to Bjork through his blog and Tweeting.
 
-
 [Computing at School](http://www.computingatschool.org.uk/): The Computing At School Working Group (CAS) is a grass roots organisation that aims to promote the teaching of Computing at school. CAS is a collaborative partner with the BCS through the BCS Academy of Computing, and has formal support from other industry partners.
-
-
 
 [Google- Exploring Computational Thinking](http://www.google.com/edu/computational-thinking/what-is-ct.html#pattern-generalization-abstraction): Google have been active in engaging with schools for a while. Much if their material is based from work in the US. I have used their broad headings for computational thinking as the basis of the computational thinking elements of this curriculum. 
 
-[CS Priciples- National Science Foundation](http://www.csprinciples.org/home/about-the-project): Computer Science: Principles is a new course under development that seeks to broaden participation in computing and computer science. Development is being led by a team of computer science educators organized by the College Board and the National Science Foundation. Pilots are ongoing at the high school and college levels. Advanced Placement credit is not currently offered for this course-- present efforts in CS Principles are part of the requisite process to make it an AP course. The test will debut in May 2016 or later. 
+[CS Priciples- National Science Foundation](http://www.csprinciples.org/home/about-the-project): Computer Science: Principles is a new course under development that seeks to broaden participation in computing and computer science. Development is being led by a team of computer science educators organized by the College Board and the National Science Foundation. Pilots are ongoing at the high school and college levels.
 
-[The Beauty and Joy of Computing](http://bjc.berkeley.edu/) is an introductory computer science curriculum developed at the University of California, Berkeley, intended for non-CS majors at the high school junior through undergraduate freshman level. It was one of the five initial pilot programs for the[ ][1][AP CS Principles][1] course being developed by the College Board and the National Science Foundation. We offer it as[ ][2][CS 10][2] at Berkeley.
+[The Beauty and Joy of Computing](http://bjc.berkeley.edu/) is an introductory computer science curriculum developed at the University of California, Berkeley, intended for non-CS majors at the high school junior through undergraduate freshman level.
 
-[Draft Australian Curriculum: Technologies February 2013](http://consultation.australiancurriculum.edu.au/Static/docs/Technologies/Draft%20Australian%20Curriculum%20Technologies%20-%20February%202013.pdf)(accessed 21.02.1) 
+[Draft Australian Curriculum: Technologies February 2013](http://consultation.australiancurriculum.edu.au/Static/docs/Technologies/Draft%20Australian%20Curriculum%20Technologies%20-%20February%202013.pdf) (accessed 21.02.1) 
 
 
 <hr />
