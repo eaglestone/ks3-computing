@@ -98,51 +98,29 @@ The each unit has a column marked ‘performance’ that lists a set of activiti
 
 ### End of unit assessment
 
-Assessment at the end of each unit will have to aims: identify what students have remembered, and their ability to apply their learning in new ways.
+Assessment at the end of each unit will have the joint aims of identify what students have remembered and their ability to apply their learning.
 
 ## Sources:
 
-I am grateful to the following sources who have published material freely that has informed my thinking.  This is not an exhaustive list
+I am grateful to the following people and bodies who have published material freely that has informed my thinking.  This is not an exhaustive list and it will change.
+
+[The Learning Spy – David Didau](http://learningspy.co.uk/): A big inspiration and a professional role model. Amongst other things, he put me on to Bjork through his blog and Tweeting.
+
+
+[Computing at School](http://www.computingatschool.org.uk/): The Computing At School Working Group (CAS) is a grass roots organisation that aims to promote the teaching of Computing at school. CAS is a collaborative partner with the BCS through the BCS Academy of Computing, and has formal support from other industry partners.
 
 
 
-The Learning Spy – David Didau: For me, David Didau is a teacher’s teacher and seems really on top of his game.  I have been stalking him online for a while as we seem to be at similar stages in our reflections on what we do. David is far more eloquent, articulate and giving of what he does than me. Thank you.
+[Google- Exploring Computational Thinking](http://www.google.com/edu/computational-thinking/what-is-ct.html#pattern-generalization-abstraction): Google have been active in engaging with schools for a while. Much if their material is based from work in the US. I have used their broad headings for computational thinking as the basis of the computational thinking elements of this curriculum. 
+
+[CS Priciples- National Science Foundation](http://www.csprinciples.org/home/about-the-project): Computer Science: Principles is a new course under development that seeks to broaden participation in computing and computer science. Development is being led by a team of computer science educators organized by the College Board and the National Science Foundation. Pilots are ongoing at the high school and college levels. Advanced Placement credit is not currently offered for this course-- present efforts in CS Principles are part of the requisite process to make it an AP course. The test will debut in May 2016 or later. 
+
+[The Beauty and Joy of Computing](http://bjc.berkeley.edu/) is an introductory computer science curriculum developed at the University of California, Berkeley, intended for non-CS majors at the high school junior through undergraduate freshman level. It was one of the five initial pilot programs for the[ ][1][AP CS Principles][1] course being developed by the College Board and the National Science Foundation. We offer it as[ ][2][CS 10][2] at Berkeley.
+
+[Draft Australian Curriculum: Technologies February 2013](http://consultation.australiancurriculum.edu.au/Static/docs/Technologies/Draft%20Australian%20Curriculum%20Technologies%20-%20February%202013.pdf)(accessed 21.02.1) 
 
 
-
-Computing at School: The Computing At School Working Group (CAS) is a grass roots organisation that aims to promote the teaching of Computing at school. CAS is a collaborative partner with the BCS through the BCS Academy of Computing, and has formal support from other industry partners. <http://www.computingatschool.org.uk/>
-
-
-
-Google- Exploring Computational Thinking
-
-Google have been active in engaging with schools for a while. Much if their material is based from work in the US. I have used their broad headings for computational thinking as the basis of the computational thinking elements of this curriculum. 
-
-<http://www.google.com/edu/computational-thinking/what-is-ct.html#pattern-generalization-abstraction> 
-
-
-
-CS Priciples( National Science Foundation): Computer Science: Principles is a new course under development that seeks to broaden participation in computing and computer science. Development is being led by a team of computer science educators organized by the College Board and the National Science Foundation. Pilots are ongoing at the high school and college levels. Advanced Placement credit is not currently offered for this course-- present efforts in CS Principles are part of the requisite process to make it an AP course. The test will debut in May 2016 or later. 
-
-<http://www.csprinciples.org/home/about-the-project>
-
-
-
-
-
-The Beauty and Joy of Computing (BJC) is an introductory computer science curriculum developed at the University of California, Berkeley, intended for non-CS majors at the high school junior through undergraduate freshman level. It was one of the five initial pilot programs for the[ ][1][AP CS Principles][1] course being developed by the College Board and the National Science Foundation. We offer it as[ ][2][CS 10][2] at Berkeley.
-
-<http://bjc.berkeley.edu/> 
-
-
-
-Draft Australian Curriculum: Technologies February 2013
-
-www.acara.edu.au
-
-<http://consultation.australiancurriculum.edu.au/Static/docs/Technologies/Draft%20Australian%20Curriculum%20Technologies%20-%20February%202013.pdf> (accessed 21.02.1) 
-
- of
-
- [1]: http://csprinciples.org/
- [2]: http://inst.eecs.berkeley.edu/~cs10
+<hr />
+<center>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/deed.en_GB"><img alt="Creative Commons Licence" style="border-width:0" src="http://i.creativecommons.org/l/by-nc/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Key Stage 3 ICT</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/eaglestone/Key-Stage-3-ICT" property="cc:attributionName" rel="cc:attributionURL">Tim Eaglestone</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/deed.en_GB">Creative Commons Attribution-NonCommercial 3.0 Unported License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/eaglestone/Key-Stage-3-ICT" rel="dct:source">https://github.com/eaglestone/Key-Stage-3-ICT</a>.
+</center>
