@@ -1,6 +1,6 @@
 # Developing a new computing scheme of work for Key Stage 3
 
-Note: This scheme of work is a draft in response to the publication of the draft National Curriculum for maintained schools in England (February 2013).  As such it is a work in progress and likely to change rapidly.  It is also incomplete: my intention is to iteratively develop units having tested ideas with my classes, consulted colleagues and watched the ongoing debate develop.
+*Note: This scheme of work is a draft in response to the publication of the consultation National Curriculum for maintained schools in England  issued in February 2013.  As such it is a work in progress and likely to change.  It is also incomplete: my intention is to iteratively develop units having tested ideas with my classes, consulted colleagues and watched the ongoing debate develop.*
 
 ## Syllabus Content
 
@@ -10,31 +10,29 @@ The syllabus is composed of three main elements: computational thinking; compute
 
 This has four elements:
 
-1.  Decomposition: breaking problems and tasks down into discrete, manageable steps
-2.  Patterns: Recognising patterns, common features, similarities and differences as a basis for problem solving.
-3.  Abstraction: Representing ideas, processes, relationships and data in general terms. This also entails deciding what not to include when developing models or solutions..
-4.  Algorithms: Producing a step-by-step strategy to solve a problem.
+1.  **Decomposition**: breaking problems and tasks down into discrete, manageable steps
+2.  **Patterns**: Recognising patterns, common features, similarities and differences as a basis for problem solving.
+3.  **Abstraction**: Representing ideas, processes, relationships and data in general terms. This also entails deciding what not to include when developing models or solutions..
+4.  **Algorithms**: Producing a step-by-step strategy to solve a problem.
 
 ### Computers and networks
 
-From the draft Programme of Study (dPoS) for Computing (Feb 2013), this section covers:
+From the draft Programme of Study for Computing (Feb 2013), this section covers:
 
-1.  Understanding the hardware and software components that make up networked computer systems, how they interact, and how they affect cost and performance.
-2.  Explaining how networks such as the internet work.
-3.  Understand how computers can monitor and control physical systems.
-4.  Explaining how instructions are stored and executed within a computer system.
+5.  **Computer systems**: Understanding the hardware and software components that make up networked computer systems, how they interact, and how they affect cost and performance. How instructions are stored and executed.
+6.  **Networks and the Internet**: Explaining how networks such as the internet work and their characteristics. Analyze how networks affect the user and understand issues of e-safety.
+7.  **Control**: Understand how computers can monitor and control physical systems.
 
 ### Digital Literacy
 
-Again from the dPoS this involves:
+Again from the draft Programme of Study this involves:
 
-1.  Undertaking creative projects that involve selecting, using, and combining multiple applications, preferably across a range of devices, to achieve challenging goals, including collecting and analysing data and meeting the needs of known users.
-2.  Being able to create, reuse, revise and repurpose digital information and content with attention to design, intellectual property and audience.
+8.  **Project management**: Undertaking creative projects that involve selecting, using, and combining multiple applications, preferably across a range of devices, to achieve challenging goals, including collecting and analysing data and meeting the needs of known users.
+9.  **IT Skills**: Being able to create, reuse, revise and repurpose digital information and content with attention to design, intellectual property and audience.
 
-In addition to the dPoS:
+In addition to the draft Programme of Study:
 
-1.  e-Safety.
-2.  Understanding validity and bias on the Internet.
+10.  **Information literacy**: Understanding validity and bias on the Internet. Explaining the differece between data, information and knowledge. Managing personal information and your digital footprint.
 
 ## Curriculum Structure
 
