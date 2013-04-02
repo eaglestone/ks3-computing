@@ -1,6 +1,13 @@
 # Developing a new computing scheme of work for Key Stage 3
 
-*Note: This scheme of work is a draft in response to the publication of the consultation National Curriculum for maintained schools in England  issued in February 2013.  As such it is a work in progress and likely to change.  It is also incomplete: my intention is to iteratively develop units having tested ideas with my classes, consulted colleagues and watched the ongoing debate develop.*
+*Note: This scheme of work is a draft in response to the publication of the consultation National Curriculum for maintained schools in England  issued in February 2013.  As such it is a work in progress and likely to change.  It is also incomplete: my intention is to iteratively develop units having tested ideas with my classes, consulted colleagues and watched the ongoing debate develop.
+
+Due to the scale of the change from ICT to Computing, and the need to reconcile some competing demands from both disciplines, I will start by giving a rationale in more detail than I would normally.*
+
+## Aims
+The aim of this scheme of work is to provide a current, engaging and coherent experience of computing for students in their first three years of secondary schooling. By the end of the key stage, students should have a sound understanding of how digital technologies work, how they interconnect and inter-operate, and the social and individual implications of living in a networked world. Students should also gain hands on experience in creating software and information systems. Furthermore, the computational thinking element should provide students with the conceptual tools needed to intelligently exploit digital technologies to solve problems.
+
+This scheme of work should also afford progression for the majority of students to key stage 4 study in computing or information and communication technology at GCSE both in regard the breadth of content and its difficulty.
 
 ## Syllabus Content
 
@@ -8,7 +15,7 @@ The syllabus is composed of three main elements: computational thinking; compute
 
 ### Computational thinking
 
-This has four elements:
+This has four aspects:
 
 1.  **Decomposition**: breaking problems and tasks down into discrete, manageable steps
 2.  **Patterns**: Recognising patterns, common features, similarities and differences as a basis for problem solving.
@@ -20,7 +27,7 @@ This has four elements:
 From the draft Programme of Study for Computing (Feb 2013), this section covers:
 
 5.  **Computer systems**: Understanding the hardware and software components that make up networked computer systems, how they interact, and how they affect cost and performance. How instructions are stored and executed.
-6.  **Networks and the Internet**: Explaining how networks such as the internet work and their characteristics. Analyze how networks affect the user and understand issues of e-safety.
+6.  **Networks and the Internet**: Explaining how networks such as the Internet work and their characteristics. Analyse how networks affect the user and understand issues of e-safety.
 7.  **Control**: Understand how computers can monitor and control physical systems.
 
 ### Digital Literacy
@@ -32,11 +39,15 @@ Again from the draft Programme of Study this involves:
 
 In addition to the draft Programme of Study:
 
-10.  **Information literacy**: Understanding validity and bias on the Internet. Explaining the differece between data, information and knowledge. Managing personal information and your digital footprint.
+10.  **Information literacy**: Understanding validity and bias on the Internet. Explaining the difference between data, information and knowledge. Managing personal information and your digital footprint.
 
 ## Curriculum Structure
 
-In line with some current thinking (Bjork, TO DO ADD REF), the course is structured in a way that facilities the interleaving of key concepts as they cut across several units. Hence, the scheme of work can be read as a series of ‘units’ that give students the opportunity to experience a range of different packages, computer languages and topics. But cutting across these units are key concepts such as ‘decomposition’’ or ‘logic’ that are repeatedly met in differing contexts (the units) in order to support the concept of spacing (Bjork, 2012 ADD REF).
+In line with [some current thinking from UCLA](http://bjorklab.psych.ucla.edu/research.html), the course is structured in a way that facilities the interleaving of key concepts as they cut across several units of work. Hence, the scheme of work can be read as a series of ‘units’ that give students the opportunity to experience a range of different packages, computer languages, projects and so on. But cutting across these units are key concepts such as ‘decomposition’ and ‘abstraction’ that are repeatedly met in differing contexts (the units) in order to support the concept of spacing [See Bjork](http://bjorklab.psych.ucla.edu/research.html).
+
+This approach leads us to separate the elements described above into content for the units and underlying concepts to thread throughout. Of the 10 elements above, the three under the Computers and Networks heading are moved into the units.  This gives us seven concepts to thread throughout: decompostiton, patterns, abtraction, alogrithms, project management, IT skills, and information literacy.
+
+The units are not, of course, limited to the three aspects listed under the Computers and Networks heading. 
 
 ## Pitching the course
 
