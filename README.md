@@ -2,10 +2,10 @@
 
 *Note: This scheme of work is a draft in response to the publication of the consultation National Curriculum for maintained schools in England  issued in February 2013.  As such it is a work in progress and likely to change.  It is also incomplete: my intention is to iteratively develop units having tested ideas with my classes, consulted colleagues and watched the ongoing debate develop.*
 
-*Due to the scale of the change from ICT to Computing, and the need to reconcile some competing demands from both disciplines, I will start by giving a rationale in more detail than I would normally.*
+*Due to the scale of the change from ICT to Computing, and the need to reconcile some competing demands from both disciplines, I will start by giving a rationale in more detail than I would normally prefer.*
 
 ## Aims
-The aim of this scheme of work is to provide a current, engaging and coherent experience of computing for students in their first three years of secondary schooling. By the end of the key stage, students should have a sound understanding of how digital technologies work, how they interconnect and inter-operate, and the social and individual implications of living in a networked world. Students should also gain hands on experience in creating software and information systems. Furthermore, the computational thinking element should provide students with the conceptual tools needed to intelligently exploit digital technologies to solve problems.
+The aim of this scheme of work is to provide a current, engaging and coherent experience of computing for students in their first three years of secondary school. By the end of the key stage, students should have a sound understanding of how digital technologies work, how they interconnect and inter-operate, and the social and individual implications of living in a networked world. Students should also gain hands on experience in creating software and information systems. Furthermore, the computational thinking element should provide students with the conceptual tools needed to intelligently exploit digital technologies to solve problems.
 
 This scheme of work should also afford progression for the majority of students to key stage 4 study in computing or information and communication technology at GCSE both in regard the breadth of content and its difficulty.
 
@@ -28,7 +28,7 @@ From the draft Programme of Study for Computing (Feb 2013), this section covers:
 
 5.  **Computer systems**: Understanding the hardware and software components that make up networked computer systems, how they interact, and how they affect cost and performance. How instructions are stored and executed.
 6.  **Networks and the Internet**: Explaining how networks such as the Internet work and their characteristics. Analyse how networks affect the user and understand issues of e-safety.
-7.  **Control**: Understand how computers can monitor and control physical systems.
+7.  **Control**: Understanding how computers can monitor and control physical systems.
 
 ### Digital Literacy
 
@@ -41,23 +41,20 @@ In addition to the draft Programme of Study:
 
 10.  **Information literacy**: Understanding validity and bias on the Internet. Explaining the difference between data, information and knowledge. Managing personal information and your digital footprint.
 
+The content described above satisfies, and exceeds, the minimum requirement set out in the draft Programme of Study for Computing (Feb, 2013).
+
 ## Curriculum Structure
 
-In line with [some current thinking from UCLA](http://bjorklab.psych.ucla.edu/research.html), the course is structured in a way that facilities the interleaving of key concepts as they cut across several units of work. Hence, the scheme of work can be read as a series of ‘units’ that give students the opportunity to experience a range of different packages, computer languages, projects and so on. But cutting across these units are key concepts such as ‘decomposition’ and ‘abstraction’ that are repeatedly met in differing contexts (the units) in order to support the concept of spacing [See Bjork](http://bjorklab.psych.ucla.edu/research.html).
+In line with [current research from UCLA](http://bjorklab.psych.ucla.edu/research.html), the course is structured in a way that facilities the interleaving of key concepts as they cut across several units of work. Hence, the scheme of work can be read as a series of units that give students the opportunity to experience a range of different contexts, packages, computer languages, projects and so on. But cutting across these units are key concepts such as decomposition and abstraction that are repeatedly met in differing contexts (the units) in order to support the concept of spacing [See Bjork](http://bjorklab.psych.ucla.edu/research.html).
 
-This approach leads us to separate the elements described above into content for the units and underlying concepts to thread throughout. Of the 10 elements above, the three under the Computers and Networks heading are moved into the units.  This gives us seven concepts to thread throughout: decompostiton, patterns, abtraction, alogrithms, project management, IT skills, and information literacy.
-
-The units are not, of course, limited to the three aspects listed under the Computers and Networks heading. 
+This approach leads us to separate the elements described above into content for the units and underlying concepts to thread throughout. The 10 elements describes above form headings for Yearly Teaching Objectives. Covering the objectives will ensure that the breadth of the curriculum is covered at the appropriate level for each year group. The Yearly Teaching Objectives will also ensure coherence and progression from years 7 through to 9.
 
 ## Pitching the course
 
-With the disapplication of the ICT programme and study and publication of the draft Programme of Study, we have the opportunity to pitch our scheme of work and lessons to our local needs.  
+With the disapplication of the ICT programme and study and publication of the draft Computing Programme of Study, we have the opportunity to pitch our scheme of work and lessons to our local needs.  
 
 
-
-Most of our students typically come in to year 7 at roughly level 4 in ICT to use the old money. This is despite of what was recorded and reported or their attainment in the SATs.  At our school, we are currently aiming for progression to the OCR Computing GCSE and the Cambridge iGCSE in IT.  I will use the OCR course and the old APP as a benchmark for progression from year 7 to 9 in the absence of any additional guidance or statutory requirements.
-
-
+Most of the students in my school typically arrive in year 7 at roughly level 4 in ICT judged by the old attainment targets. We are currently aiming for progression to the OCR Computing GCSE and the Cambridge iGCSE in IT.  I will use the OCR course and the old APP as a benchmark for progression from years 7 to 9 in the absence of any additional guidance or statutory requirements.
 
 We offer the OCR Computing GCSE as a two year course in years 10 and 11.  From the OCR Spec (July 2012):
 
@@ -88,6 +85,7 @@ We offer the OCR Computing GCSE as a two year course in years 10 and 11.  From t
 
 Comparing the above statements to the previous National Curriculum levels and, specifically, the Assessing Pupil Progress guidance, it appears as though the Grade C descriptors align closest with level 7; Grade F looks as though it aligns to the level 4 to 5 crossover; and Grade A is Exceptional Performance. 
 
+Hence, I will benchmark the Yearly Teaching Objectives for Year 7 against the Grade F criteria and aspire to the Grade C criteria by the end of Year 9.
 ## Assessment 
 
 At the time of writing, we are still waiting for guidance and clarification on assessment and measures of progression. This section is likely to change in due course.
@@ -98,13 +96,13 @@ The each unit has a column marked ‘performance’ that lists a set of activiti
 
 ### End of unit assessment
 
-Assessment at the end of each unit will have the joint aims of identify what students have remembered and their ability to apply their learning.
+Assessment at the end of each unit will have the joint aims of identifying what students have remembered and their ability to apply their learning.
 
 ## Sources:
 
 I am grateful to the following people and bodies who have published material freely that has informed my thinking.  This is not an exhaustive list and it will change.
 
-[The Learning Spy – David Didau](http://learningspy.co.uk/): A big inspiration and a professional role model. Amongst other things, he put me on to Bjork through his blog and Tweeting.
+[The Learning Spy: David Didau](http://learningspy.co.uk/): A big inspiration as a teacher. Amongst other things, he put me on to Bjork through his blog and Tweeting.
 
 [Computing at School](http://www.computingatschool.org.uk/): The Computing At School Working Group (CAS) is a grass roots organisation that aims to promote the teaching of Computing at school. CAS is a collaborative partner with the BCS through the BCS Academy of Computing, and has formal support from other industry partners.
 
