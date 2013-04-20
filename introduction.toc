@@ -1,0 +1,10 @@
+\contentsline {section}{\numberline {0.1}Aims}{1}
+\contentsline {section}{\numberline {0.2}Syllabus Content}{2}
+\contentsline {subsubsection}{Computational thinking}{2}
+\contentsline {subsubsection}{Computers and networks}{2}
+\contentsline {subsubsection}{Digital Literacy}{2}
+\contentsline {section}{\numberline {0.3}Curriculum Structure}{3}
+\contentsline {section}{\numberline {0.4}Pitching the course}{3}
+\contentsline {section}{\numberline {0.5}Ongoing assessment}{4}
+\contentsline {subsection}{\numberline {0.5.1}End of unit assessment}{5}
+\contentsline {section}{\numberline {0.6}Sources}{5}
