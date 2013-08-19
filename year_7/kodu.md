@@ -1,28 +1,34 @@
-#Kodu—medium term plan
+#Kodu
+
+## Learning objectives 
 
 _Year 7, Length: 6 weeks_
 
-##Learning objectives
 The lesson overview and example lesson plans below are just a guide. Plans should be tailored for each class.  However, the objectives below should be covered as a minimum during this unit of work.
 
-####Level 4:
+###Level 4:
 Analyse and tackle problems by:
--decomposing them into smaller parts 
--using logical reasoning to explain simple algorithms
 
-Develop solutions to problems by: 
--designing, writing and debugging procedures that accomplish specific goals
--using sequences, selection and repetition to implement algorithms
+- decomposing them into smaller parts 
+- using logical reasoning to explain simple algorithms
 
-####Level 5
+Develop solutions to problems by:
+
+- designing, writing and debugging procedures that accomplish specific goals
+- using sequences, selection and repetition to implement algorithms
+
+###Level 5
 Problem solve and model situations and processes by:
--tracing flowcharts, state machines and other diagrams to explain how a process or model works
+
+- tracing flowcharts, state machines and other diagrams to explain how a process or model works
 
 Produce algorithms by: 
--creating precise and accurate sequences of instructions
--tracing and explaining code in textual and diagrammatic languages
 
-##Guidance for teachers
+- creating precise and accurate sequences of instructions
+- tracing and explaining code in textual and diagrammatic languages
+
+## Guidance for teachers #
+
 ###Lesson overview
 |Lesson    		|Content			|Notes			|
 |-|-|-|
@@ -33,6 +39,8 @@ Produce algorithms by:
 |5|Finish project and document for books| |
 |6|Assessment:<li> Gallery <li> Assessment: Theory test and mark | |
 
+
+## Lesson Plans 
 
 ##Computing: Lesson Progress Map
 _Class: 7    Date:	Week:     1      2_ 		
