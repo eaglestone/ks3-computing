@@ -30,15 +30,48 @@ Produce algorithms by:
 ## Guidance for teachers #
 
 ###Lesson overview
-|Lesson    		|Content			|Notes			|
-|-|-|-|
-|1|Intro to Kodu | |
-|2|Algorithms 101 <li> Activity charts 2 <li>Algorithm key words| |
-|3| | |
-|4| | |
-|5|Finish project and document for books| |
-|6|Assessment:<li> Gallery <li> Assessment: Theory test and mark | |
+<table>
+<thead>
+<tr>
+	<th style="text-align:left;">Lesson</th>
+	<th style="text-align:left;">Content</th>
+	<th style="text-align:left;">Notes</th>
+</tr>
+</thead>
 
+<tbody>
+<tr>
+	<td style="text-align:left;">1</td>
+	<td style="text-align:left;">Intro to Kodu</td>
+	<td style="text-align:left;"></td>
+</tr>
+<tr>
+	<td style="text-align:left;">2</td>
+	<td style="text-align:left;">Algorithms 101 <ul><li> Activity charts 2 <li>Algorithm key words</ul></td>
+	<td style="text-align:left;"></td>
+</tr>
+<tr>
+	<td style="text-align:left;">3</td>
+	<td style="text-align:left;"></td>
+	<td style="text-align:left;"></td>
+</tr>
+<tr>
+	<td style="text-align:left;">4</td>
+	<td style="text-align:left;"></td>
+	<td style="text-align:left;"></td>
+</tr>
+<tr>
+	<td style="text-align:left;">5</td>
+	<td style="text-align:left;">Finish project and document for books</td>
+	<td style="text-align:left;"></td>
+</tr>
+<tr>
+	<td style="text-align:left;">6</td>
+	<td style="text-align:left;"><ul><li>Assessment: Gallery <li> Assessment: Theory test and mark</ul></td>
+	<td style="text-align:left;"></td>
+</tr>
+</tbody>
+</table>
 
 ## Lesson Plans 
 
@@ -53,7 +86,7 @@ N/A Lesson 1 on Kodu
 SEE SEATING PLAN AND TEACHER PLANNER|
 
 ####Bell work
-Logon and go to desks. Show the working Kodu game on the screen. Question on board (in pen): what are the rules of this game?|
+Logon and go to desks. Show the working Kodu game on the screen. Question on board (in pen): what are the rules of this game?
 
 ####Progress map
 What do I want the students to learn this lesson? 
