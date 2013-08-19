@@ -1,7 +1,3 @@
-Title: ks3-computing-kodu
-Author: Tim Eaglestone
-Base Header Level: 1
-
 #Kodu—medium term plan
 
 _Year 7, Length: 6 weeks_
@@ -9,7 +5,7 @@ _Year 7, Length: 6 weeks_
 ##Learning objectives
 The lesson overview and example lesson plans below are just a guide. Plans should be tailored for each class.  However, the objectives below should be covered as a minimum during this unit of work.
 
-###Level 4:
+####Level 4:
 Analyse and tackle problems by:
 -decomposing them into smaller parts 
 -using logical reasoning to explain simple algorithms
@@ -18,7 +14,7 @@ Develop solutions to problems by:
 -designing, writing and debugging procedures that accomplish specific goals
 -using sequences, selection and repetition to implement algorithms
 
-###Level 5
+####Level 5
 Problem solve and model situations and processes by:
 -tracing flowcharts, state machines and other diagrams to explain how a process or model works
 
@@ -26,8 +22,8 @@ Produce algorithms by:
 -creating precise and accurate sequences of instructions
 -tracing and explaining code in textual and diagrammatic languages
 
-#Guidance for teachers
-##Lesson overview
+##Guidance for teachers
+###Lesson overview
 |Lesson    		|Content			|Notes			|
 |-|-|-|
 |1|Intro to Kodu | |
@@ -38,7 +34,7 @@ Produce algorithms by:
 |6|Assessment:<li> Gallery <li> Assessment: Theory test and mark | |
 
 
-#Computing: Lesson Progress Map
+##Computing: Lesson Progress Map
 _Class: 7    Date:	Week:     1      2_ 		
 
 ####What happened last lesson?
