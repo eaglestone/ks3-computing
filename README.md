@@ -1,13 +1,13 @@
-# Developing a new computing scheme of work for Key Stage 3
+# A new scheme of work for Computing at key stage 3
 
-*Note: This scheme of work is a draft in response to the publication of the consultation National Curriculum for maintained schools in England  issued in February 2013.  As such it is a work in progress and likely to change.  It is also incomplete: my intention is to iteratively develop units having tested ideas with my classes, consulted colleagues and watched the ongoing debate develop.*
+*Note: This scheme of work started as a way of gathering thoughts in response to the publication of the consultation National Curriculum for maintained schools in England that was issued in February 2013.  As the process of switching to the new Programme of Study is ongoing, it is a work in progress and likely to change. Furthermore, no curriculum is ever really static and hence I envisage it changing frequently—mostly in response to me stealing the good ideas of others. Hence, it is incomplete: my intention is to iteratively develop units having tested ideas with my classes, consulted colleagues and watched the ongoing debate develop.*
 
 *Due to the scale of the change from ICT to Computing, and the need to reconcile some competing demands from both disciplines, I will start by giving a rationale in more detail than I would normally prefer.*
 
 ## Aims
-The aim of this scheme of work is to provide a current, engaging and coherent experience of computing for students in their first three years of secondary school. By the end of the key stage, students should have a sound understanding of how digital technologies work, how they interconnect and inter-operate, and the social and individual implications of living in a networked world. Students should also gain hands on experience in creating software and information systems. Furthermore, the computational thinking element should provide students with the conceptual tools needed to intelligently exploit digital technologies to solve problems.
+The aim of this scheme of work is to provide a current, engaging and coherent experience of computing for students in their first three years of secondary school. By the end of the key stage, students should have a sound understanding of how digital technologies work, how they interconnect and inter-operate, and the social and individual implications of living in a networked world. Students should also gain hands on experience in creating software and information systems. Underpinning all of this is the need for students to develop the knowledge and skills to tackle problems in ways that lend themselves to being solved with with aid of computation.
 
-This scheme of work should also afford progression for the majority of students to key stage 4 study in computing or information and communication technology at GCSE both in regard the breadth of content and its difficulty.
+While I recognise that year 9 will mark the end of specialist computing lessons for most students, this scheme of work should also afford progression to key stage 4 study in computer science or ICT at level 2 of the [Qualifications and Credit Framework](http://ofqual.gov.uk/help-and-advice/comparing-qualifications/) both in regard the breadth of content and its difficulty.
 
 ## Syllabus Content
 
